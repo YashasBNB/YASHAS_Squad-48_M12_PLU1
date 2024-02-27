@@ -1,0 +1,22 @@
+[
+  {
+    "squad": "Squad 1",
+    "tagline": "Building the Future of Tech",
+    "members": [
+      {
+        "email": "john@example.com",
+        "name": "John Doe",
+        "role": "mentor",
+        "github": "john_doe"
+      },
+      {
+        "email": "jane@example.com",
+        "name": "Jane Doe",
+        "role": "student",
+        "github": "jane_doe"
+      }
+      
+    ]
+  }
+  
+]
